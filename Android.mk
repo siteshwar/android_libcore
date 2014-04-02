@@ -20,7 +20,7 @@ LOCAL_PATH := $(call my-dir)
 # Include the definitions to build the Java code.
 #
 
-include $(LOCAL_PATH)/JavaLibrary.mk
+# include $(LOCAL_PATH)/JavaLibrary.mk
 
 
 #
